@@ -4,12 +4,19 @@ This repository contains a Python implementation of a Scientific Calculator. The
 Features:
 
 -Simple and intuitive interface
+
 -Support for basic arithmetic operations (addition, subtraction, multiplication, division)
+
 -Trigonometric functions (sine, cosine, tangent)
+
 -Logarithmic functions (log, log10)
+
 -Exponentiation (power, square root)
+
 -Memory functionality (store, recall, clear)
+
 -Error handling for invalid inputs
+
 
 
 Requirements:
