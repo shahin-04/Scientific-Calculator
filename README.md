@@ -1,7 +1,8 @@
-# Scientific Calculator
+<p align="center"># Scientific Calculator</p>
+
 
 <p align="center">
-  <img src="Images/Calc_img.png" alt="Calculator" width="270" height="400">
+  <img src="Images/Calc_img.png" alt="Calculator" width="270" height="400"style="margin-bottom: 20px;">
 </p>
 
 
