@@ -1,8 +1,8 @@
 # Scientific-Calculator
 This repository contains a Python implementation of a Scientific Calculator. The calculator provides a user-friendly graphical user interface (GUI) for performing various mathematical calculations, including basic arithmetic operations, trigonometric functions, logarithmic functions, exponentiation, and more.
 
-###Features:
-<sup> Features </sup>
+##Features:
+
 	<sub> Simple and intuitive interface
 Support for basic arithmetic operations (addition, subtraction, multiplication, division)
 Trigonometric functions (sine, cosine, tangent)
@@ -13,15 +13,15 @@ Error handling for invalid inputs	</sub>
 
 
 
-Requirements:
+##Requirements:
 
--Python 3.x
--Tkinter library
+<sub>Python 3.x
+Tkinter library</sub>
 
 
-Usage:
+##Usage:
 
--Clone the repository:
+<sub>Clone the repository:
 
 -Copy code
 git clone https://github.com/your-username/scientific-calculator.git
@@ -32,7 +32,7 @@ pip install tkinter
 Run the calculator:
 
 -Copy code
-python calculator.py
+python calculator.py</sub>
 
-Contributing:
-Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+##Contributing:
+<sub>Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.</sub>
