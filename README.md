@@ -1,9 +1,9 @@
-<h1 align="center">Scientific Calculator</h1>
+<h1 align="left">Scientific Calculator</h1>
 
 
 
-<p align="center">
-  <img src="Images/Calc_img.png" alt="Calculator" width="270" height="400"style="margin-bottom: 20px;">
+<p align="left">
+  <img src="Images/Calc_img.png" alt="Calculator" width="270" height="400"style="margin-bottom: 40px;">
 </p>
 
 
