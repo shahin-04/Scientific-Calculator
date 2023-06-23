@@ -1,6 +1,6 @@
 # Scientific Calculator
 
-<img src="Images/Calc_img.png" alt="Calculator" width="200" height="100">
+<img src="Images/Calc_img.png" alt="Calculator" width="250" height="400">
 
 
 
