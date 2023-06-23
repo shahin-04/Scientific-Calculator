@@ -1,39 +1,44 @@
-# Scientific-Calculator
+# Scientific Calculator
+
+![Calculator](calculator_image.png)
+
 This repository contains a Python implementation of a Scientific Calculator. The calculator provides a user-friendly graphical user interface (GUI) for performing various mathematical calculations, including basic arithmetic operations, trigonometric functions, logarithmic functions, exponentiation, and more.
 
-##Features:
+## Features:
 
->Simple and intuitive interface
->Support for basic arithmetic operations (addition, subtraction, multiplication, division)
->Trigonometric functions (sine, cosine, tangent)
->Logarithmic functions (log, log10) Exponentiation (power, square root)
->Memory functionality (store, recall, clear)
->Error handling for invalid inputs
+- Simple and intuitive interface
+- Support for basic arithmetic operations (addition, subtraction, multiplication, division)
+- Trigonometric functions (sine, cosine, tangent)
+- Logarithmic functions (log, log10)
+- Exponentiation (power, square root)
+- Memory functionality (store, recall, clear)
+- Error handling for invalid inputs
 
+## Requirements:
 
+- Python 3.x
+- Tkinter library
 
-##Requirements:
+## Usage:
 
->Python 3.x
->Tkinter library
+### Clone the repository:
 
+```shell
+git clone https://github.com/your-username/scientific-calculator.git
+```
 
-##Usage:
+### Install the required dependencies:
 
-###Clone the repository:
+```shell
+pip install tkinter
+```
 
--Copy code
-<sub>git clone https://github.com/your-username/scientific-calculator.git</sub>
+### Run the calculator:
 
-Install the required dependencies:
+```shell
+python calculator.py
+```
 
--Copy code
-<sub>pip install tkinter</sub>
+## Contributing:
 
-Run the calculator:
-
--Copy code
-<sub>python calculator.py</sub>
-
-##Contributing:
->Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
