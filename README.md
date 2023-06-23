@@ -8,29 +8,32 @@ This repository contains a Python implementation of a Scientific Calculator. The
 >Trigonometric functions (sine, cosine, tangent)
 >Logarithmic functions (log, log10) Exponentiation (power, square root)
 >Memory functionality (store, recall, clear)
->Error handling for invalid inputs</sub> 
+>Error handling for invalid inputs
 
 
 
 ##Requirements:
 
-<sub>Python 3.x Tkinter library</sub>
+>Python 3.x
+>Tkinter library
 
 
 ##Usage:
 
-<sub>Clone the repository:
+###Clone the repository:
 
 -Copy code
-git clone https://github.com/your-username/scientific-calculator.git
+<sub>git clone https://github.com/your-username/scientific-calculator.git</sub>
+
 Install the required dependencies:
 
 -Copy code
-pip install tkinter
+<sub>pip install tkinter</sub>
+
 Run the calculator:
 
 -Copy code
-python calculator.py</sub>
+<sub>python calculator.py</sub>
 
 ##Contributing:
-<sub>Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.</sub>
+>Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
