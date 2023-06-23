@@ -1,10 +1,7 @@
 <h1 align="left">Scientific Calculator</h1>
 
 
-
-<p align="left">
-  <img src="Images/Calc_img.png" alt="Calculator" width="270" height="400"style="margin: 40px;">
-</p>
+<img src="Images/Calc_img.png" alt="Calculator" width="270" height="400" style="margin-right: 40px;">
 
 
 
