@@ -3,7 +3,7 @@
 
 
 <p align="left">
-  <img src="Images/Calc_img.png" alt="Calculator" width="270" height="400"style="margin-bottom: 40px;">
+  <img src="Images/Calc_img.png" alt="Calculator" width="270" height="400"style="margin: 40px;">
 </p>
 
 
