@@ -1,4 +1,5 @@
-<p align="center"># Scientific Calculator</p>
+<h1 align="center">Scientific Calculator</h1>
+
 
 
 <p align="center">
